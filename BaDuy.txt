@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 xin chao cac ban!
 minh ten la Phan ba Duy
+=======
+>>>>>>> parent of 7712007... add loi chao
